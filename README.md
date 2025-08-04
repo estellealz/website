@@ -121,7 +121,7 @@
   <p>Voici un aperçu de mon site portfolio :</p>
 
   <div style="border: 5px solid #480E33; border-radius: 10px; display: inline-block; background-color: #E8E0E5; padding: 10px;">
-    <img src="assets/images/accueil/screen_accueil.png" alt="Aperçu du site portfolio" style="max-width: 100%; display: block; border-radius: 8px;">
+    <img src="screenshot_homepage.png" alt="Aperçu du site portfolio" style="max-width: 100%; display: block; border-radius: 8px;">
   </div>
 
   <p style="margin-top: 10px; font-size: 0.9em; color: #666;">📸 Capture d’écran de la page d’accueil</p>
