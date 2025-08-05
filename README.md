@@ -124,6 +124,6 @@
     <img src="screenshot_homepage.png" alt="Aperçu du site portfolio" style="max-width: 100%; display: block; border-radius: 8px;">
   </div>
 
-  <p style="margin-top: 10px; font-size: 0.9em; color: #666;">📸 Capture d’écran de la page d’accueil</p>
+  <p style="margin-top: 10px; font-size: 0.9em; color: #666;">Capture d’écran de la page d’accueil du site https://estelle-alizier.fr 📸 </p>
 
 </body>
